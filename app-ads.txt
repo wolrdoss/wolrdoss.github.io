@@ -2706,7 +2706,7 @@ freewheel.tv, 1606620, RESELLER
 freewheel.tv, 1606633, RESELLER
 bidmachine.io, 198, RESELLER
 pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
-vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
+vungle.com,68e8be0c673f1671fcf807e6,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
@@ -3140,4 +3140,5 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
+
 
