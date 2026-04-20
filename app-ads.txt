@@ -1,3 +1,4 @@
+facebook.com, 2215426979284667, DIRECT, c3e20eee3f780d68
 google.com, pub-8828369083670907, DIRECT, f08c47fec0942fa0
 google.com, pub-8828369083670907, DIRECT, f08c47fec0942fa0
 mintegral.com, your 54912, DIRECT, 0aeed750c80d6423
